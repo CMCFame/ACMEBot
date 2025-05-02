@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+xlsxwriter
+openpyxl
+markdown
+streamlit-cookies-manager
