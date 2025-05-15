@@ -1,0 +1,70 @@
+/* Custom styling for the ACE Questionnaire app */
+
+/* Main container and general styles */
+.main {
+    padding: 20px;
+}
+
+/* Improve form button styling */
+div[data-testid="stForm"] button {
+    background-color: #2e7d32;
+    color: white;
+    border-radius: 20px;
+    padding: 8px 20px;
+    border: none;
+    transition: all 0.3s;
+}
+
+div[data-testid="stForm"] button:hover {
+    background-color: #1b5e20;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Style text inputs */
+div[data-testid="stTextInput"] input {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    transition: border 0.3s;
+}
+
+div[data-testid="stTextInput"] input:focus {
+    border-color: #2e7d32;
+    box-shadow: 0 0 0 1px #2e7d32;
+}
+
+/* Style download buttons */
+.stDownloadButton button {
+    background-color: #1976d2;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-weight: 500;
+    transition: all 0.3s;
+}
+
+.stDownloadButton button:hover {
+    background-color: #1565c0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Style the sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #f8f9fa;
+    border-right: 1px solid #eee;
+}
+
+/* Make help button more prominent */
+button[data-testid="baseButton-secondary"] {
+    background-color: #f5f5f5;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    transition: all 0.3s;
+}
+
+button[data-testid="baseButton-secondary"]:hover {
+    background-color: #e0e0e0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
