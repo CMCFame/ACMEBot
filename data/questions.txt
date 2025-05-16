@@ -1,0 +1,23 @@
+Could you please provide your name and your organization name?
+In what situations will crew management be used by your organization?
+How frequently will you use crew management?
+How are you currently managing daily crew assignments?
+What information is needed for daily operations of crews?
+How do you manage daily resource assignments?
+How are resources like equipment or vehicles allocated to crews or members?
+How are you currently assigning work to a crew or member?
+How are you assigning mutual assistance crews?
+What is your approach to obtaining these crews during high-demand scenarios?
+How are you assigning contract crews?
+What is your approach to obtaining contractors for operations?
+How are you assigning lodging?
+What are your special considerations for lodging?
+What additional crew, crew member or resources do you track?
+How are crews or resources managed when not assigned to a crew?
+How are you currently tracking crew member availability?
+Who in your organization will be using Crew Manager?
+What are their roles and specific needs?
+Describe how your current crew management tools are used.
+What reports are currently printed and distributed?
+How would you like data to be organized or filtered?
+What is the significance of data organization in your operations?
